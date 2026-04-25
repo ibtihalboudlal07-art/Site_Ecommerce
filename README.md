@@ -36,8 +36,6 @@ The project allows users to:
 
 ---
 
-## 🖼️ Screenshots
-
 ### 🏠 Home Page
 ![home](./Screenshot/home.PNG)
 
@@ -48,7 +46,7 @@ The project allows users to:
 ![orders](Screenshot/orders.PNG)
 
 ### 📄 connection
-![Connexion](Screenshot/Connexion.PNG)
+![Connexion](Screenshot/Connection.PNG)
 
 ### 🙍‍♀️ Profile
 ![Profile](./Screenshot/Profile.PNG)

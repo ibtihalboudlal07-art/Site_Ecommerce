@@ -45,16 +45,16 @@ The project allows users to:
 ![cart](Screenshot/cart.PNG)
 
 ### 📦 Orders Page
-![orders](Screenshot/orders.png)
+![orders](Screenshot/orders.PNG)
 
 ### 📄 connection
-![Connexion](Screenshot/Connexion.png)
+![Connexion](Screenshot/Connexion.PNG)
 
 ### 🙍‍♀️ Profile
-![Profile](./Screenshot/Profile.png)
+![Profile](./Screenshot/Profile.PNG)
 
 ### 🛒 shop
-![Shop](Screenshot/Shop.png)
+![Shop](Screenshot/Shop.PNG)
 
 ---
 

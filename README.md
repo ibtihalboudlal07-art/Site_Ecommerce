@@ -39,10 +39,10 @@ The project allows users to:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![home](Screenshot/home.png)
+![home](./Screenshot/home.PNG)
 
 ### 🛒 Cart Page
-![cart](Screenshot/cart.png)
+![cart](Screenshot/cart.PNG)
 
 ### 📦 Orders Page
 ![orders](Screenshot/orders.png)

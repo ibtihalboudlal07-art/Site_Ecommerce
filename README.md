@@ -36,27 +36,25 @@ The project allows users to:
 
 ---
 
----
-
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](Screenshot/home.png)
+![home](Screenshot/home.png)
 
 ### 🛒 Cart Page
-![Cart](Screenshot/cart.png)
+![cart](Screenshot/cart.png)
 
 ### 📦 Orders Page
-![Orders](Screenshot/orders.png)
+![orders](Screenshot/orders.png)
 
 ### 📄 connection
-![Order Details](Screenshot/Connexion.png)
+![Connexion](Screenshot/Connexion.png)
 
 ### 🙍‍♀️ Profile
-![Order Details](Screenshot/Profile.png)
+![Profile](Screenshot/Profile.png)
 
 ### 🛒 shop
-![Order Details](Screenshot/Shop.png)
+![Shop](Screenshot/Shop.png)
 
 ---
 

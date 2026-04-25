@@ -51,7 +51,7 @@ The project allows users to:
 ![Connexion](Screenshot/Connexion.png)
 
 ### 🙍‍♀️ Profile
-![Profile](Screenshot/Profile.png)
+![Profile](./Screenshot/Profile.png)
 
 ### 🛒 shop
 ![Shop](Screenshot/Shop.png)
